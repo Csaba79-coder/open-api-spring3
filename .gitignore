@@ -86,3 +86,6 @@ bin/
 
 .env
 .gitkeep
+
+# Ignore generated files
+/src/main/gen/
